@@ -1,20 +1,24 @@
 ---
 enable: true
-topTitle: About
+topTitle: Le projet
 title: >
-  ## About me
+  ## À propos
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  Il est temps de se doter d'un vrai skatepark en béton à la hauteur de la ville
+   de Sept-Îles, reconnue pour son caractère sportif et dynamique.
+
+   Le skate, le BMX, le patin et la trottinette permettent aux jeunes (et moins jeunes) de combler
+  leurs besoins sociaux et physiques.
 content: >
-  ### I design and build ultimate things.
+  ### Un projet rassembleur qui revitalisera la ville.
 
-  I love to work in User Experience & User Interface designing. Because I love
-  to solve the design problem and find easy and better solutions to solve it. I always
-  try my best to make good user interface with the best user experience. I have been
-  working as a Visual designer from.
-button1Name: Hire me
-button2Name: Download CV
+  La mission de ce projet d'envergure est d'offrir une plateforme extérieure
+  multi-sports accessible à tous les niveaux en vue de
+  **1)** Développer des programmes sportifs;
+  **2)** Promouvoir une meilleure santé;
+  **3)** Promouvoir la contribution positive des sports extrêmes dans la communauté
+button1Name: Encourager le projet!
+button2Name: Joindre le groupe
 button1Target: contact
-button2Target: contact
-image: images/about/about-img.jpg
+button2Target: https://www.facebook.com/groups/4484303551581236/
+image: images/skatepark-sky_about.jpg

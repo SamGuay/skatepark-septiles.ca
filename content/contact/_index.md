@@ -1,4 +1,4 @@
 ---
-title: Contact Me
+title: Pour nous contacter
 breadcrumb: Contact
 ---

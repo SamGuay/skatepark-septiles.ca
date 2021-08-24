@@ -1,45 +1,35 @@
 ---
 enable: true
-topTitle: Working Area
+topTitle: Objectifs
 title: >
-  ## Creative Services
+  ## Un skatepark
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  Un skatepark n'est pas seulement un endroit pour faire du skate, c'est un espace de vie qui permet de:
 service:
   - content: >
-      #### UI/UX Design 
+      #### Développer des habiletés
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
+      
+
+    image: images/service/sk8-tricks.svg
   - content: >
-      #### Web Development 
+      #### Offrir un endroit sécuritaire
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
+    image: images/service/sk8.svg
   - content: >
-      #### Creative Design 
+      #### Améliorer la santé physique et mentale
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/creative.svg
+    image: images/service/brain.svg
   - content: >
-      #### Branding
+      #### Socialiser
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/branding.svg
+    image: images/service/social.svg
   - content: >
-      #### UI/UX Design
+      #### Apprendre à persévérer
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
+    image: images/service/truck.svg
   - content: >
-      #### Web Development
+      #### S'entraider
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
+    image: images/service/scooter.svg
+

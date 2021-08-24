@@ -1,13 +1,17 @@
 ---
 enable: true
-topTitle: Hello, I am Natasha
+topTitle: Bonjour, le site est en construction, il évoluera tout au long du projet!
 content: >
-  # I am here for your personal business
+  # Pour un nouveau skatepark à Sept-Îles
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
-buttonName: Contact me
+  Les différents skateparks de la ville de Sept-îles ne répondent plus aux besoins
+  des utilisateurs et utilisatrices.
+
+
+  L'accès à un vrai skatepark bien aménagé leur permettrait de socialiser, de bouger,
+  d’avoir un peu d’adrénaline et de se dépasser à travers de nouveaux défis.
+buttonName: Contactez-nous
 buttonURL: contact
-image: images/hero/2960351.jpg
-videoThumb: images/hero/popup-thumb.png
-videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+image: images/skatepark-sky_short.jpg
+videoThumb: images/hero/vid.png
+videoURL: https://www.facebook.com/icicotenord/videos/151180053824519

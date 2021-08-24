@@ -1,19 +1,26 @@
 ---
 enable: true
-topTitle: Testimonials
+topTitle: Témoignages
 title: >
-  ## What People Say About Me?
+  ### Plusieurs individus, jeunes et moins jeunes, n'ont que des beaux mots à dire à propos du sujet.
 
 testimonial:
-  - name: Ryan Cook
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 20, 2020
+  - name: Chantal Maher
+    comment: >
+      «*En tant que parent, pouvoir regarder nos enfants s’amuser tout
+      en socialisant, c’est parfait pour avoir une belle complicité avec les jeunes.*»
+
+    time: Août 2021
     star: 5
-  - name: Justin Trudo
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 16, 2020
-    star: 4
-  - name: Franky Filth
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Mar 08, 2020
-    star: 3
+  - name: Samuel Guay
+    comment: >
+      «*Après avoir pratiqué le skateboard partout sur la planète,
+      je constate qu'il est temps de moderniser les infrastructures
+      de skateboard de la ville.*»
+
+    time: Août 2021
+    star: 5
+  - name: Isabelle Roy
+    comment: «*Sincèrement, je suis impressionnée par la force de l'équipe de ce comité!*»
+    time: Août 2021
+    star: 5

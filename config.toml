@@ -1,0 +1,94 @@
+baseURL = "http://skatepark-septiles.ca/"
+languageCode = "fr-ca"
+paginate = 3
+theme = "portio"
+title = "🛹 Skatepark Sept-Îles 🛹"
+# Main Menu
+[[menu.main]]
+name = "Accueil"
+url = "#home"
+weight = 1
+[[menu.main]]
+name = "À propos"
+url = "#about"
+weight = 2
+[[menu.main]]
+name = "Objectifs"
+url = "#service"
+weight = 3
+# [[menu.main]]
+# name = "Exemples"
+# url = "#portfolio"
+# weight = 4
+# [[menu.main]]
+# name = "Équipe"
+# url = "#resume"
+# weight = 5
+# [[menu.main]]
+# name = "Blogue"
+# url = "#blog"
+# weight = 6
+[[menu.main]]
+name = "Contact"
+url = "/contact"
+weight = 7
+
+# Sitemap Menu
+[[menu.sitemap]]
+name = "À propos"
+url = "about"
+weight = 1
+[[menu.sitemap]]
+name = "Contact"
+url = "/contact"
+weight = 2
+# [[menu.sitemap]]
+# name = "Privacy & Policy"
+# url = "#"
+# weight = 3
+# [[menu.sitemap]]
+# name = "Latest Article"
+# url = "#"
+# weight = 4
+
+[params]
+blogPageURL = "blog"
+contactLink = "contact"
+copyright = "Pour un nouveau skatepark à Sept-îles ❤️ 🛹"
+# footerLogo = "images/contact/widget-logo.png"
+formspreeURL = "https://formspree.io/f/mjvjpdoo"
+# googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+logo = ""
+navbutton = "M'impliquer"
+navbutton_url = "/contact"
+
+
+[params.address]
+# address = "23 Khan Niketon, Grand Street, NYK."
+email = "info@skatepark-septiles.ca"
+# openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
+# phone = "+(448) 833 5272 332"
+fb = "https://www.facebook.com/groups/4484303551581236/"
+[params.map]
+APIkey = ""
+latitude = "50.213262"
+longitude = "-66.376247"
+pinImage = "images/pin.png"
+
+# Social icons
+[[params.social]]
+icon = "fa-facebook-official"
+url = "https://www.facebook.com/groups/4484303551581236/"
+weight = 1
+# [[params.social]]
+# icon = "fa-linkedin-square"
+# url = "https://www.linkedin.com/"
+# weight = 2
+# [[params.social]]
+# icon = "fa-pinterest-square"
+# url = "https://www.pinterest.com/"
+# weight = 3
+[[params.social]]
+icon = "fa-twitter-square"
+url = "https://twitter.com/ssi"
+weight = 4

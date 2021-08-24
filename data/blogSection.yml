@@ -1,9 +1,9 @@
 ---
-enable: true
-topTitle: Blog
+enable: false
+topTitle: Blogue
 title: >
-  ## Recent Article
+  ## Articles
 
-  Enjoy team diversity and increase their networks among others people in various fields by provided.
+  Dernières nouvelles à propos du projet.
 
 buttonTarget: blog
