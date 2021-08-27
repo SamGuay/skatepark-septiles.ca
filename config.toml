@@ -2,7 +2,8 @@ baseURL = "https://skatepark-septiles.ca/"
 languageCode = "fr-ca"
 paginate = 3
 theme = "portio"
-title = "🛹 Skatepark Sept-Îles 🛹"
+title = "🛹 Skatepark Sept-Îles"
+description = "Site dédié aux démarches pour un nouveau skatepark en béton à Sept-Îles. Vous y trouverez nouvelles, documents et images concernant le projet."
 enableEmoji = true
 # Main Menu
 [[menu.main]]
@@ -17,10 +18,10 @@ weight = 2
 name = "Objectifs"
 url = "#service"
 weight = 3
-# [[menu.main]]
-# name = "Exemples"
-# url = "#portfolio"
-# weight = 4
+[[menu.main]]
+name = "Nouvelles"
+url = "#blog"
+weight = 4
 # [[menu.main]]
 # name = "Équipe"
 # url = "#resume"
