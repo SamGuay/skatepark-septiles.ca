@@ -1,9 +1,9 @@
 ---
-enable: false
+enable: true
 topTitle: Blogue
 title: >
   ## Articles
 
-  Dernières nouvelles à propos du projet.
+  Dernières nouvelles à propos du projet et des skateparks dans la région.
 
 buttonTarget: blog
