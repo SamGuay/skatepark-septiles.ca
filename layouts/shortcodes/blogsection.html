@@ -1,0 +1,10 @@
+<div class="blog-section">
+    {{ $title := .Get "title" }}
+    {{ with $title }}
+    <h3>{{ . }}</h3>
+    {{ end }}
+    <img width="370px" height="460px" src="{{ .Get "image" | absURL}}"  alt="">
+    <p>
+        {{ .Inner | markdownify | emojify}}
+    </p>
+</div>
