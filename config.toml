@@ -1,8 +1,9 @@
-baseURL = "http://skatepark-septiles.ca/"
+baseURL = "https://skatepark-septiles.ca/"
 languageCode = "fr-ca"
 paginate = 3
 theme = "portio"
 title = "🛹 Skatepark Sept-Îles 🛹"
+enableEmoji = true
 # Main Menu
 [[menu.main]]
 name = "Accueil"
