@@ -94,3 +94,12 @@ weight = 1
 # icon = "fa-twitter-square"
 # url = "https://twitter.com/ssi"
 # weight = 4
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[privacy.youtube]
+  disable = false
+  privacyEnhanced = true
