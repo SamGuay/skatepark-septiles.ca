@@ -1,7 +1,7 @@
 ---
 title: "Lancement officiel des démarches pour un nouveau skatepark"
-date: 2021-08-26T12:30:26+06:00
-featureImage: images/blog/launch.jpg
+date: 2021-08-26T12:30:26-04:00
+featureImage: images/blog/featured_launch.jpg
 postImage: images/blog/people.jpg
 images:
 - images/blog/people.jpg
